@@ -3,7 +3,6 @@
 ### I write code in C and python ###
 
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/bcarlee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br> Projects I've worked on </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
@@ -18,3 +17,4 @@
 | [get_next_line](https://github.com/ilnrzakirov/get_next_line) | Reads the file to the buffer of the specified size and returns a string, when called again, returns the following string        |    C, static var |
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
