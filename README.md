@@ -2,8 +2,9 @@
 👋👋👋  
 ### I write code in C and python ###
 
-<br> Projects I've worked on </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br> Projects I've worked on </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [libft](https://github.com/ilnrzakirov/libft)  |  implementation of the behavior of standard c language functions    | C <unistd.h> |
@@ -16,4 +17,4 @@
 | [pipex](https://github.com/ilnrzakirov/pipex) | behavior of the pipe function         |    C, fork, pipe, execve, dup |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
