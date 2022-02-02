@@ -15,6 +15,6 @@
 | [philosophers](https://github.com/ilnrzakirov/philosophers)  | Solving the problem of dining Philosophers         |    C, fork, pthread, mutex, sem |
 | [push-swup](https://github.com/ilnrzakirov/push_swap)  | Stack sorting algorithm. 100 numbers for 730 operations, 500 for 5200 operations         |    C, Stack |
 | [pipex](https://github.com/ilnrzakirov/pipex) | behavior of the pipe function         |    C, fork, pipe, execve, dup |
-
+| [get_next_line](https://github.com/ilnrzakirov/get_next_line) | Reads the file to the buffer of the specified size and returns a string, when called again, returns the following string        |    C, static var |
 
 
