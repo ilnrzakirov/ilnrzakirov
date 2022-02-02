@@ -2,7 +2,7 @@
 👋👋👋  
 ### I write code in C and python ###
 
-
+![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/bcarlee)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br> Projects I've worked on </br>
 | Project name      | Description                | Tools |
