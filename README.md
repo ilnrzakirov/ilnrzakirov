@@ -1,4 +1,4 @@
-# me
+# Hi,
 👋👋👋  
 ### I write code in C and python ###
 
