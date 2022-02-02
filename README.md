@@ -15,3 +15,5 @@
 | [push-swup](https://github.com/ilnrzakirov/push_swap)  | Stack sorting algorithm. 100 numbers for 730 operations, 500 for 5200 operations         |    C, Stack |
 | [pipex](https://github.com/ilnrzakirov/pipex) | behavior of the pipe function         |    C, fork, pipe, execve, dup |
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
