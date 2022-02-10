@@ -7,7 +7,7 @@
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [libft](https://github.com/ilnrzakirov/libft)  |  implementation of the behavior of standard c language functions    | C <unistd.h> |
-| [printf](https://github.com/ilnrzakirov/ft_printf)     | implementation of printf behavior |   С, Va_list |
+| [printf](https://github.com/ilnrzakirov/ft_printf)     | implementation of printf behavior |   С, Va_list, va_arg, va_start, va_end |
 | [so_long](https://github.com/ilnrzakirov/so_long)  | a small 2D game implemented in C         |    C, mlx lib |
 | [search_hotel](https://github.com/ilnrzakirov/search_for_hotels)  | Implementation of telegram bot for hotel search, in python (django)         |  Python, Django, GeoPy, PyTelegramBotAPI, Loguru, Decouple, SQL lite, API, json |
 | [minishell](https://github.com/ilnrzakirov/minishell)  | Implementing the behavior of standard bash.          |    C, pipe, fork, signal, dup, execve, envp |
