@@ -11,7 +11,7 @@
 | [so_long](https://github.com/ilnrzakirov/so_long)  | a small 2D game implemented in C         |    C, mlx lib |
 | [search_hotel](https://github.com/ilnrzakirov/search_for_hotels)  | Implementation of telegram bot for hotel search, in python (django)         |  Python, Django, GeoPy, PyTelegramBotAPI, Loguru, Decouple, SQL lite, API, json |
 | [minishell](https://github.com/ilnrzakirov/minishell)  | Implementing the behavior of standard bash.          |    C, pipe, fork, signal, dup, execve, envp |
-| [philosophers](https://github.com/ilnrzakirov/philosophers)  | Solving the problem of dining Philosophers         |    C, fork, pthread, mutex, sem |
+| [philosophers](https://github.com/ilnrzakirov/philosophers)  | Solving the problem of dining Philosophers         |    C, fork, pthread, mutex, sem, pipe, dup |
 | [push-swup](https://github.com/ilnrzakirov/push_swap)  | Stack sorting algorithm. 100 numbers for 730 operations, 500 for 5200 operations         |    C, Stack |
 | [pipex](https://github.com/ilnrzakirov/pipex) | behavior of the pipe function         |    C, fork, pipe, execve, dup |
 | [get_next_line](https://github.com/ilnrzakirov/get_next_line) | Reads the file to the buffer of the specified size and returns a string, when called again, returns the following string        |    C, static var |
