@@ -2,6 +2,8 @@
 👋👋👋  
 ### I write code in C and python ###
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br> Projects I've worked on </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
@@ -19,5 +21,3 @@
 | [Born_2_be_root](https://github.com/ilnrzakirov/born_2_be_root) | This project consists of having you set up your server by following specific rules.  |    VirtualBox, Debian, APT, Bash, Sudo, LVM, UFW, SSH |
 | [NET_Practice](https://github.com/ilnrzakirov/Net_Practice) | This project is a general practical exercise to let you discover networking.  |   TCP/IP |
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
