@@ -20,4 +20,5 @@
 | [advertising_cabinet](https://github.com/ilnrzakirov/advertising_cabinet) | bot for copying advertising campaigns to other geo  |    Python, PyTelegramBotApi, json, API |
 | [Born_2_be_root](https://github.com/ilnrzakirov/born_2_be_root) | This project consists of having you set up your server by following specific rules.  |    VirtualBox, Debian, APT, Bash, Sudo, LVM, UFW, SSH |
 | [NET_Practice](https://github.com/ilnrzakirov/Net_Practice) | This project is a general practical exercise to let you discover networking.  |   TCP/IP |
+| [CPP](https://github.com/ilnrzakirov/CPP) | The goal of these modules is to introduce you to Object-Oriented Programming.  |   C++, OOP |
 
