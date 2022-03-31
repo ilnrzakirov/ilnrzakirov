@@ -7,7 +7,7 @@
 <br> Projects I've worked on </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [cub3D](https://github.com/ilnrzakirov/cu3D)  |  This project is inspired by the world-famous Wolfenstein 3D game    | mlx, perror, math, Ray casting, graphics |
+| [cub3D](https://github.com/ilnrzakirov/cu3D)  |  This project is inspired by the world-famous Wolfenstein 3D game    | mlx lib, perror, math, Ray casting, graphics |
 | [libft](https://github.com/ilnrzakirov/libft)  |  implementation of the behavior of standard c language functions    | C <unistd.h> |
 | [printf](https://github.com/ilnrzakirov/ft_printf)     | implementation of printf behavior |   С, Va_list, va_arg, va_start, va_end |
 | [so_long](https://github.com/ilnrzakirov/so_long)  | a small 2D game implemented in C         |    C, mlx lib |
