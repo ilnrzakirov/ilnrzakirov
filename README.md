@@ -23,4 +23,5 @@
 | [CPP](https://github.com/ilnrzakirov/CPP) | The goal of these modules is to introduce you to Object-Oriented Programming.  |   C++, OOP, string, iostream |
 | [Python_basic](https://github.com/ilnrzakirov/Python_basic) | Basic Python course. Introduction to OOP  |   Python, OOP, itertools, datetime, unitest |
 | [Python_django](https://github.com/ilnrzakirov/Python_django) | django framework tutorial projects  |   Python, Django, SQL, djangotest |
+| [html_css_practic](https://github.com/ilnrzakirov/html_css_practic) | Html and css Basics  |   HTML, CSS, Flexbox |
 
