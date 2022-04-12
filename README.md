@@ -2,9 +2,6 @@
 👋👋👋  
 ### I write code in C/C++ and python ###
 
-## 42 Ecole Profile
-[![bcarlee's 42 stats](https://badge42.vercel.app/api/v2/cl1w1089o001109l4bwx8xiuf/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> Projects I've worked on </br>
@@ -28,3 +25,6 @@
 | [Python_django](https://github.com/ilnrzakirov/Python_django) | django framework tutorial projects  |   Python, Django, SQL, djangotest |
 | [html_css_practic](https://github.com/ilnrzakirov/html_css_practic) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
 
+
+## 42 Ecole Profile
+[![bcarlee's 42 stats](https://badge42.vercel.app/api/v2/cl1w1089o001109l4bwx8xiuf/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
