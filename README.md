@@ -1,6 +1,6 @@
 # Hi,
 👋👋👋  
-### I write code in C/C++ and python ###
+### I write code in C/C++ and Python ###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
