@@ -2,6 +2,9 @@
 👋👋👋  
 ### I write code in C/C++ and python ###
 
+## 42 Ecole Profile
+[![bcarlee's 42 stats](https://badge42.vercel.app/api/v2/cl1w1089o001109l4bwx8xiuf/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> Projects I've worked on </br>
