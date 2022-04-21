@@ -25,7 +25,7 @@
 | [Python_advanced](https://github.com/ilnrzakirov/Python_advanced) | Python advanced course  |   Shell, Python, Logging, Linux, subprocess, flask, debug |
 | [Python_django](https://github.com/ilnrzakirov/Python_django) | django framework tutorial projects  |   Python, Django, SQL, djangotest, multilingualism |
 | [html_css_practic](https://github.com/ilnrzakirov/html_css_practic) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
-| [Piscine Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID  |
+| [Piscine Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO  |
 
 
 ## 42 Ecole Profile
