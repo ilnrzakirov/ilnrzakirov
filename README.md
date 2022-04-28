@@ -8,7 +8,7 @@
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [cub3D](https://github.com/ilnrzakirov/cu3D)  |  This project is inspired by the world-famous Wolfenstein 3D game    | mlx lib, perror, math, Ray casting, graphics |
-| [Piscine Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest   |
+| [Piscine Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring   |
 | [TerminalGame](https://github.com/ilnrzakirov/terminal_game) | Turn-based console game |   Java 1.8, including, String, IO, Jcommander, JAR, maven, JCDP  |
 | [minishell](https://github.com/ilnrzakirov/minishell)  | Implementing the behavior of standard bash.          |    C, pipe, fork, signal, dup, execve, envp, getenv, getcwd, readline, exit |
 | [Python_django](https://github.com/ilnrzakirov/Python_django) | django framework tutorial projects  |   Python, Django, SQL, djangotest, multilingualism |
