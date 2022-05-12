@@ -2,7 +2,7 @@
 👋👋👋  
 ### I write code in C/C++, Java and Python ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilnrzakirov&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> Projects I've worked on </br>
 | Project name      | Description                | Tools |
