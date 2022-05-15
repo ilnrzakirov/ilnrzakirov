@@ -27,7 +27,7 @@
 | [Python_basic](https://github.com/ilnrzakirov/Python_basic) | Basic Python course. Introduction to OOP  |   Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
 | [Python_advanced](https://github.com/ilnrzakirov/Python_advanced) | Python advanced course  |   Shell, Python, Logging, Linux, subprocess, SQL, flask, debug, popen |
 | [html_css_practic](https://github.com/ilnrzakirov/html_css_practic) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
-| [python_django_piscine](https://github.com/ilnrzakirov/piscine_python_django) | A 14-day long intensive course covering topics from Python and Django  |   Python 3.5, Django, shell, html 5, css, js |
+| [python_django_piscine](https://github.com/ilnrzakirov/piscine_python_django) | A 14-day long intensive course covering topics from Python and Django  |   Python 3.5, Django, shell, html 5, css, js, OOP |
 
 
 ## 42 Ecole Profile
