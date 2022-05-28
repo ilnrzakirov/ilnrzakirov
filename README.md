@@ -11,6 +11,7 @@
 | [Piscine Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
 | [TerminalGame](https://github.com/ilnrzakirov/terminal_game) | Turn-based console game |   Java 1.8, including, String, IO, Jcommander, JAR, maven, JCDP  |
 | [minishell](https://github.com/ilnrzakirov/minishell)  | Implementing the behavior of standard bash.          |    C, pipe, fork, signal, dup, execve, envp, getenv, getcwd, readline, exit |
+| [python_django_piscine](https://github.com/ilnrzakirov/piscine_python_django) | A 14-day long intensive course covering topics from Python and Django  |   Python 3, Django, shell scripts, html 5, css, js, OOP, SQLite, PostgreSQL, Nginx, Docker, Gunicorn, Websockets, Ajax  |
 | [Python_django](https://github.com/ilnrzakirov/Python_django) | django framework tutorial projects  |   Python, Django, SQL, djangotest, multilingualism |
 | [search_hotel](https://github.com/ilnrzakirov/hotels)  | Implementation of telegram bot for hotel search, in python (django)         |  Python, Django, GeoPy, PyTelegramBotAPI, Loguru, Decouple, SQL lite, API, json |
 | [advertising_cabinet](https://github.com/ilnrzakirov/advertising_cabinet) | bot for copying advertising campaigns to other geo  |    Python, PyTelegramBotApi, json, API |
@@ -27,8 +28,6 @@
 | [Python_basic](https://github.com/ilnrzakirov/Python_basic) | Basic Python course. Introduction to OOP  |   Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
 | [Python_advanced](https://github.com/ilnrzakirov/Python_advanced) | Python advanced course  |   Shell, Python, Logging, Linux, subprocess, SQL, flask, debug, popen |
 | [html_css_practic](https://github.com/ilnrzakirov/html_css_practic) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
-| [python_django_piscine](https://github.com/ilnrzakirov/piscine_python_django) | A 14-day long intensive course covering topics from Python and Django  |   Python 3, Django, shell scripts, html 5, css, js, OOP, SQLite, PostgreSQL, Nginx, Docker, Gunicorn, Websockets, Ajax  |
-
 
 ## 42 Ecole Profile
 [![bcarlee's 42 stats](https://badge42.vercel.app/api/v2/cl1w1089o001109l4bwx8xiuf/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
