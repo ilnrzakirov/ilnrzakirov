@@ -15,7 +15,7 @@
 | [Python_django](https://github.com/ilnrzakirov/Python_django) | django framework tutorial projects  |   Python, Django, SQL, djangotest, multilingualism |
 | [search_hotel](https://github.com/ilnrzakirov/hotels)  | Implementation of telegram bot for hotel search, in python (django)         |  Python, Django, GeoPy, PyTelegramBotAPI, Loguru, Decouple, SQL lite, API, json |
 | [advertising_cabinet](https://github.com/ilnrzakirov/advertising_cabinet) | bot for copying advertising campaigns to other geo  |    Python, PyTelegramBotApi, json, API |
-| [CPP](https://github.com/ilnrzakirov/CPP) | The goal of these modules is to introduce you to Object-Oriented Programming.  |   C++, OOP, string, iostream |
+| [CPP](https://github.com/ilnrzakirov/CPP) | The goal of these modules is to introduce you to Object-Oriented Programming.  |   C++, OOP, string, iostream, cast, interface, iterator, containers |
 | [philosophers](https://github.com/ilnrzakirov/philosophers)  | Solving the problem of dining Philosophers         |    C, fork, pthread, mutex, sem, pipe, dup |
 | [libft](https://github.com/ilnrzakirov/libft)  |  implementation of the behavior of standard c language functions    | C <unistd.h> |
 | [printf](https://github.com/ilnrzakirov/ft_printf)     | implementation of printf behavior |   С, Va_list, va_arg, va_start, va_end |
