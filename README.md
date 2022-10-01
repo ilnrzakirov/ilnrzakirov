@@ -11,7 +11,7 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [Inception](https://github.com/ilnrzakirov/Inception)  |  This project aims to broaden your knowledge of system administration by using Docker    | Linux (debian), Docker, Docker-compose, Nginx, Shell, MariaDB, Wordpress |
-| [bot_friend](https://github.com/ilnrzakirov/bot_friend)  |  Asynchronous bot of parekmakherskaya, Keeps a record and shares information  | Python 3.10, pip-tools, aiogram==2.22, loguru, Decouple, pre-commit, flake8, SQLAlchemy, PostgreSQL, asyncio |
+| [bot_friend](https://github.com/ilnrzakirov/bot_friend)  |  Asynchronous bot of parekmakherskaya, Keeps a record and shares information  | Python 3.10, pip-tools, aiogram==2.22, loguru, Decouple, pre-commit, flake8, SQLAlchemy, PostgreSQL, asyncioб alembic |
 | [camagru](https://github.com/ilnrzakirov/camagru)  |  A web application that allows you to perform basic photo and video editing using a webcam and some predefined images.  | Python 3.10, Django 4, html, pip-tools, css, js |
 | [webserv](https://github.com/ilnrzakirov/webserv)  |  This project is about writing your ow HTTP server.   | C++ 98, select, socket, connect, fcntl, htons, htonl, ntohs, poll, kqueue, accept |
 | [cub3D](https://github.com/ilnrzakirov/cu3D)  |  This project is inspired by the world-famous Wolfenstein 3D game    | C, mlx lib, perror, math, Ray casting, graphics |
