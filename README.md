@@ -56,6 +56,11 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | [Born_2_be_root](https://github.com/ilnrzakirov/born_2_be_root) | This project consists of having you set up your server by following specific rules.  |    VirtualBox, Debian, APT, Bash, Sudo, LVM, UFW, SSH, Shell scripts |
 | [NET_Practice](https://github.com/ilnrzakirov/Net_Practice) | This project is a general practical exercise to let you discover networking.  |   TCP/IP |
 
+<br> Java project</br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [Piscine Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
+| [TerminalGame](https://github.com/ilnrzakirov/terminal_game) | Turn-based console game |   Java 1.8, including, String, IO, Jcommander, JAR, maven, JCDP  |
 
 <img src="https://komarev.com/ghpvc/?username=ilnrzakirov&style=plastic&color=green&label=PROFILE+VIEWS" alt=""/>
 
