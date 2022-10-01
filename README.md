@@ -62,6 +62,22 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | [Piscine Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
 | [TerminalGame](https://github.com/ilnrzakirov/terminal_game) | Turn-based console game |   Java 1.8, including, String, IO, Jcommander, JAR, maven, JCDP  |
 
+<br> C/C++ project</br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [webserv](https://github.com/ilnrzakirov/webserv)  |  This project is about writing your ow HTTP server.   | C++ 98, select, socket, connect, fcntl, htons, htonl, ntohs, poll, kqueue, accept |
+| [cub3D](https://github.com/ilnrzakirov/cu3D)  |  This project is inspired by the world-famous Wolfenstein 3D game    | C, mlx lib, perror, math, Ray casting, graphics |
+| [minishell](https://github.com/ilnrzakirov/minishell)  | Implementing the behavior of standard bash.          |    C, pipe, fork, signal, dup, execve, envp, getenv, getcwd, readline, exit |
+| [CPP](https://github.com/ilnrzakirov/CPP) | The goal of these modules is to introduce you to Object-Oriented Programming.  |   C++, OOP, string, iostream, cast, interface, iterator, containers |
+| [philosophers](https://github.com/ilnrzakirov/philosophers)  | Solving the problem of dining Philosophers         |    C, fork, pthread, mutex, sem, pipe, dup |
+| [libft](https://github.com/ilnrzakirov/libft)  |  implementation of the behavior of standard c language functions    | C <unistd.h> |
+| [printf](https://github.com/ilnrzakirov/ft_printf)     | implementation of printf behavior |   С, Va_list, va_arg, va_start, va_end |
+| [so_long](https://github.com/ilnrzakirov/so_long)  | a small 2D game implemented in C         |    C, mlx lib |
+| [push-swup](https://github.com/ilnrzakirov/push_swap)  | Stack sorting algorithm. 100 numbers for 730 operations, 500 for 5200 operations         |    C, Stack |
+| [pipex](https://github.com/ilnrzakirov/pipex) | behavior of the pipe function         |    C, fork, pipe, execve, dup |
+| [get_next_line](https://github.com/ilnrzakirov/get_next_line) | Reads the file to the buffer of the specified size and returns a string, when called again, returns the following string        |    C, static var |
+| [ft_containers](https://github.com/ilnrzakirov/ft_containers)  | In this project, you will implement a few container types of the C++ standard template library         |    C++, allocator, friend |
+
 <img src="https://komarev.com/ghpvc/?username=ilnrzakirov&style=plastic&color=green&label=PROFILE+VIEWS" alt=""/>
 
 ## 42 Ecole Profile
