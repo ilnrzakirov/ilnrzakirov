@@ -48,6 +48,15 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | [advertising_cabinet](https://github.com/ilnrzakirov/advertising_cabinet) | bot for copying advertising campaigns to other geo  |    Python, PyTelegramBotApi, json, API |
 | [Python_basic](https://github.com/ilnrzakirov/Python_basic) | Basic Python course. Introduction to OOP  |   Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
 | [Python_advanced](https://github.com/ilnrzakirov/Python_advanced) | Python advanced course  |   Shell, Python, Logging, Linux, subprocess, SQL, flask, debug, popen |
+
+<br> Devops project</br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [Inception](https://github.com/ilnrzakirov/Inception)  |  This project aims to broaden your knowledge of system administration by using Docker    | Linux (debian), Docker, Docker-compose, Nginx, Shell, MariaDB, Wordpress |
+| [Born_2_be_root](https://github.com/ilnrzakirov/born_2_be_root) | This project consists of having you set up your server by following specific rules.  |    VirtualBox, Debian, APT, Bash, Sudo, LVM, UFW, SSH, Shell scripts |
+| [NET_Practice](https://github.com/ilnrzakirov/Net_Practice) | This project is a general practical exercise to let you discover networking.  |   TCP/IP |
+
+
 <img src="https://komarev.com/ghpvc/?username=ilnrzakirov&style=plastic&color=green&label=PROFILE+VIEWS" alt=""/>
 
 ## 42 Ecole Profile
