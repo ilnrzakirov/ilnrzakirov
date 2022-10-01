@@ -37,6 +37,17 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | [ft_containers](https://github.com/ilnrzakirov/ft_containers)  | In this project, you will implement a few container types of the C++ standard template library         |    C++, allocator, friend |
 | [html_css_practic](https://github.com/ilnrzakirov/html_css_practic) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
 
+<br> Python projects </br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [bot_friend](https://github.com/ilnrzakirov/bot_friend)  |  Asynchronous bot of parekmakherskaya, Keeps a record and shares information  | Python 3.10, pip-tools, aiogram==2.22, loguru, Decouple, pre-commit, flake8, SQLAlchemy, PostgreSQL, asyncio, alembic |
+| [camagru](https://github.com/ilnrzakirov/camagru)  |  A web application that allows you to perform basic photo and video editing using a webcam and some predefined images.  | Python 3.10, Django 4, html, pip-tools, css, js |
+| [python_django_piscine](https://github.com/ilnrzakirov/piscine_python_django) | A 14-day long intensive course covering topics from Python and Django  |   Python 3, Django, shell scripts, html 5, css, js, OOP, SQLite, PostgreSQL, Nginx, Docker, Gunicorn, Websockets, Ajax  |
+| [Python_django](https://github.com/ilnrzakirov/Python_django) | django framework tutorial projects  |   Python, Django, SQL, djangotest, multilingualism |
+| [search_hotel](https://github.com/ilnrzakirov/hotels)  | Implementation of telegram bot for hotel search, in python (django)         |  Python, Django, GeoPy, PyTelegramBotAPI, Loguru, Decouple, SQL lite, API, json |
+| [advertising_cabinet](https://github.com/ilnrzakirov/advertising_cabinet) | bot for copying advertising campaigns to other geo  |    Python, PyTelegramBotApi, json, API |
+| [Python_basic](https://github.com/ilnrzakirov/Python_basic) | Basic Python course. Introduction to OOP  |   Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
+| [Python_advanced](https://github.com/ilnrzakirov/Python_advanced) | Python advanced course  |   Shell, Python, Logging, Linux, subprocess, SQL, flask, debug, popen |
 <img src="https://komarev.com/ghpvc/?username=ilnrzakirov&style=plastic&color=green&label=PROFILE+VIEWS" alt=""/>
 
 ## 42 Ecole Profile
