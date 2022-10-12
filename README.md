@@ -10,6 +10,7 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 <br> Python projects </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
+| [parts_servis](https://github.com/ilnrzakirov/parts_servis)  |  Service for accounting for the remaining spare parts in stock, maintaining customer orders, registering and maintaining buyers  | Python 3.10, pip-tools, FastAPI, loguru, Decouple, pre-commit, flake8, SQLAlchemy, PostgreSQL+asyncpg, asyncio, alembic, aioredis |
 | [bot_friend](https://github.com/ilnrzakirov/bot_friend)  |  Asynchronous bot for recording in a barber shop  | Python 3.10, pip-tools, aiogram==2.22, loguru, Decouple, pre-commit, flake8, SQLAlchemy, PostgreSQL+asyncpg, asyncio, alembic, aioredis, docker |
 | [camagru](https://github.com/ilnrzakirov/camagru)  |  A web application that allows you to perform basic photo and video editing using a webcam and some predefined images.  | Python 3.10, Django 4, html, pip-tools, css, js |
 | [python_django_piscine](https://github.com/ilnrzakirov/piscine_python_django) | A 14-day long intensive course covering topics from Python and Django  |   Python 3, Django, shell scripts, html 5, css, js, OOP, SQLite, PostgreSQL, Nginx, Docker, Gunicorn, Websockets, Ajax  |
