@@ -38,6 +38,7 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [webserv](https://github.com/ilnrzakirov/webserv)  |  This project is about writing your ow HTTP server.   | C++ 98, select, socket, connect, fcntl, htons, htonl, ntohs, poll, kqueue, accept |
+| [malloc](https://github.com/ilnrzakirov/malloc)  |  This project is about implementing a dynamic memory allocation mechanism.    | C, virtual_memory, assert, mmap, munmap, getpagesize, getrlimit |
 | [cub3D](https://github.com/ilnrzakirov/cu3D)  |  This project is inspired by the world-famous Wolfenstein 3D game    | C, mlx lib, perror, math, Ray casting, graphics |
 | [minishell](https://github.com/ilnrzakirov/minishell)  | Implementing the behavior of standard bash.          |    C, pipe, fork, signal, dup, execve, envp, getenv, getcwd, readline, exit |
 | [CPP](https://github.com/ilnrzakirov/CPP) | The goal of these modules is to introduce you to Object-Oriented Programming.  |   C++, OOP, string, iostream, cast, interface, iterator, containers |
