@@ -14,7 +14,7 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | [pizza-bot](https://github.com/ilnrzakirov/bot_pizza)  |  Asynchronous bot for ordering pizza  | Python 3.10, pip-tools, aiogram==2.22, loguru, Decouple,  SQLAlchemy, PostgreSQL+asyncpg, asyncio, alembic |
 | [barber-bot](https://github.com/ilnrzakirov/bot_friend)  |  Asynchronous bot for recording in a barber shop  | Python 3.10, pip-tools, aiogram==2.22, loguru, Decouple, pre-commit, flake8, SQLAlchemy, PostgreSQL+asyncpg, asyncio, alembic, aioredis, docker |
 | [camagru](https://github.com/ilnrzakirov/camagru)  |  A web application that allows you to perform basic photo and video editing using a webcam and some predefined images.  | Python 3.10, Django 4, html, pip-tools, css, js |
-| [Python_advanced](https://github.com/ilnrzakirov/Python_advanced) | Python advanced course  |   Shell, Python, Logging, Linux, subprocess, SQL, flask, debug, popen |
+| [Python_advanced](https://github.com/ilnrzakirov/Python_advanced) | Python advanced course  |   Shell, Python, Logging, Linux, subprocess, SQL, flask, debug, popen, docker, deploy |
 | [python_django_piscine](https://github.com/ilnrzakirov/piscine_python_django) | A 14-day long intensive course covering topics from Python and Django  |   Python 3, Django, shell scripts, html 5, css, js, OOP, SQLite, PostgreSQL, Nginx, Docker, Gunicorn, Websockets, Ajax  |
 | [Python_django](https://github.com/ilnrzakirov/Python_django) | django framework tutorial projects  |   Python, Django, SQL, djangotest, multilingualism |
 | [search_hotel](https://github.com/ilnrzakirov/hotels)  | Implementation of telegram bot for hotel search, in python (django)         |  Python, Django, GeoPy, PyTelegramBotAPI, Loguru, Decouple, SQL lite, API, json |
