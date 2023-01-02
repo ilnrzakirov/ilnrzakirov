@@ -10,7 +10,7 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 <br> Python projects </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [parts_service](https://github.com/ilnrzakirov/parts_servis)  |  Service for accounting for the remaining spare parts in stock, maintaining customer orders, registering and maintaining buyers  | Python 3.10, pip-tools, FastAPI, uvicorn, pydantic, loguru, Decouple, pre-commit, flake8, SQLAlchemy, PostgreSQL+asyncpg, asyncio, alembic, aioredis, black |
+| [parts_service](https://github.com/ilnrzakirov/parts_servis)  |  Service for accounting for the remaining spare parts in stock, maintaining customer orders, registering and maintaining buyers  | Python 3.10, pip-tools, FastAPI, uvicorn, pydantic, loguru, Decouple, pre-commit, flake8, SQLAlchemy, PostgreSQL+asyncpg, asyncio, alembic, aioredis, black, SQLAlchemy |
 | [matcha](https://github.com/ilnrzakirov/matcha)  |  Because, love too can be industrialized. (web tinder)  | Python 3.10, FastAPI, uvicorn, pip-tools, database, logging, pydantic, pre-commit, flake8, isort |
 | [pizza-bot](https://github.com/ilnrzakirov/bot_pizza)  |  Asynchronous bot for ordering pizza  | Python 3.10, pip-tools, aiogram==2.22, loguru, Decouple,  SQLAlchemy, PostgreSQL+asyncpg, asyncio, alembic |
 | [barber-bot](https://github.com/ilnrzakirov/bot_friend)  |  Asynchronous bot for recording in a barber shop  | Python 3.10, pip-tools, aiogram==2.22, loguru, Decouple, pre-commit, flake8, SQLAlchemy, PostgreSQL+asyncpg, asyncio, alembic, aioredis, docker |
