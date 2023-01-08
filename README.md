@@ -47,11 +47,6 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | [get_next_line](https://github.com/ilnrzakirov/get_next_line) | Reads the file to the buffer of the specified size and returns a string, when called again, returns the following string        |    C, static var |
 | [ft_containers](https://github.com/ilnrzakirov/ft_containers)  | In this project, you will implement a few container types of the C++ standard template library         |    C++, allocator, friend |
 
-<br> Java project</br>
-| Project name      | Description                | Tools |
-| ------------- |:------------------------:| ------------------------:|
-| [Piscine Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
-| [TerminalGame](https://github.com/ilnrzakirov/terminal_game) | Turn-based console game |   Java 1.8, including, String, IO, Jcommander, JAR, maven, JCDP  |
 
 <img src="https://komarev.com/ghpvc/?username=ilnrzakirov&style=plastic&color=green&label=PROFILE+VIEWS" alt=""/>
 
