@@ -22,14 +22,6 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | [advertising_cabinet](https://github.com/ilnrzakirov/advertising_cabinet) | bot for copying advertising campaigns to other geo  |    Python, PyTelegramBotApi, json, API |
 | [Python_basic](https://github.com/ilnrzakirov/Python_basic) | Basic Python course. Introduction to OOP  |   Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
 
-
-<br> Devops project</br>
-| Project name      | Description                | Tools |
-| ------------- |:------------------------:| ------------------------:|
-| [Inception](https://github.com/ilnrzakirov/Inception)  |  This project aims to broaden your knowledge of system administration by using Docker    | Linux (debian), Docker, Docker-compose, Nginx, Shell, MariaDB, Wordpress |
-| [Born_2_be_root](https://github.com/ilnrzakirov/born_2_be_root) | This project consists of having you set up your server by following specific rules.  |    VirtualBox, Debian, APT, Bash, Sudo, LVM, UFW, SSH, Shell scripts |
-| [NET_Practice](https://github.com/ilnrzakirov/Net_Practice) | This project is a general practical exercise to let you discover networking.  |   TCP/IP |
-
 <br> C/C++ project</br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
@@ -46,6 +38,13 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | [pipex](https://github.com/ilnrzakirov/pipex) | behavior of the pipe function         |    C, fork, pipe, execve, dup |
 | [get_next_line](https://github.com/ilnrzakirov/get_next_line) | Reads the file to the buffer of the specified size and returns a string, when called again, returns the following string        |    C, static var |
 | [ft_containers](https://github.com/ilnrzakirov/ft_containers)  | In this project, you will implement a few container types of the C++ standard template library         |    C++, allocator, friend |
+
+<br> Devops project</br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [Inception](https://github.com/ilnrzakirov/Inception)  |  This project aims to broaden your knowledge of system administration by using Docker    | Linux (debian), Docker, Docker-compose, Nginx, Shell, MariaDB, Wordpress |
+| [Born_2_be_root](https://github.com/ilnrzakirov/born_2_be_root) | This project consists of having you set up your server by following specific rules.  |    VirtualBox, Debian, APT, Bash, Sudo, LVM, UFW, SSH, Shell scripts |
+| [NET_Practice](https://github.com/ilnrzakirov/Net_Practice) | This project is a general practical exercise to let you discover networking.  |   TCP/IP |
 
 
 <img src="https://komarev.com/ghpvc/?username=ilnrzakirov&style=plastic&color=green&label=PROFILE+VIEWS" alt=""/>
