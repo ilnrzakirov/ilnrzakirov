@@ -43,9 +43,8 @@ Visit [Intra Bcarlee](https://profile.intra.42.fr/)
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [Inception](https://github.com/ilnrzakirov/Inception)  |  This project aims to broaden your knowledge of system administration by using Docker    | Linux (debian), Docker, Docker-compose, Nginx, Shell, MariaDB, Wordpress |
-| [Born_2_be_root](https://github.com/ilnrzakirov/born_2_be_root) | This project consists of having you set up your server by following specific rules.  |    VirtualBox, Debian, APT, Bash, Sudo, LVM, UFW, SSH, Shell scripts |
 | [NET_Practice](https://github.com/ilnrzakirov/Net_Practice) | This project is a general practical exercise to let you discover networking.  |   TCP/IP |
-
+| [Born_2_be_root](https://github.com/ilnrzakirov/born_2_be_root) | This project consists of having you set up your server by following specific rules.  |    VirtualBox, Debian, APT, Bash, Sudo, LVM, UFW, SSH, Shell scripts |
 
 <img src="https://komarev.com/ghpvc/?username=ilnrzakirov&style=plastic&color=green&label=PROFILE+VIEWS" alt=""/>
 
